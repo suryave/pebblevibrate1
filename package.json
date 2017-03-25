@@ -1,0 +1,21 @@
+{
+    "author": "venkatram.surya@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "vibrate",
+    "pebble": {
+        "displayName": "Vibrate",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3c1b92fa-a476-482f-a65d-8a408c3f6c61",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
